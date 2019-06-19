@@ -1,5 +1,6 @@
-# shell-checker
-check existing old shell with http status code
+# shell checker
+Mass checking your webshell
 
-only check using http status code
-usage : python shell-checker.py -l file_name.txt -o output_name.txt
+```
+usage : python file.py list.txt
+```
